@@ -1,0 +1,51 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 560 Series (ID=0x67ff)
+    Vendor:   ATI
+    VRAM:     4075 MB
+    Driver:   27.20.1017.1011
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Projects\Sharp Develop\SweeperDPL\SweeperDPL_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Projects\Sharp Develop\SweeperDPL\SweeperDPL_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Projects\Sharp Develop\SweeperDPL\SweeperDPL_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Projects\Sharp Develop\SweeperDPL\SweeperDPL_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Projects\Sharp Develop\SweeperDPL\SweeperDPL_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Projects\Sharp Develop\SweeperDPL\SweeperDPL_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Projects\Sharp Develop\SweeperDPL\SweeperDPL_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Projects\Sharp Develop\SweeperDPL\SweeperDPL_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Projects\Sharp Develop\SweeperDPL\SweeperDPL_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Projects\Sharp Develop\SweeperDPL\SweeperDPL_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Projects\Sharp Develop\SweeperDPL\SweeperDPL_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Projects\Sharp Develop\SweeperDPL\SweeperDPL_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.368 seconds
+Platform assembly: D:\Projects\Sharp Develop\SweeperDPL\SweeperDPL_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Projects\Sharp Develop\SweeperDPL\SweeperDPL_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.456600 ms
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: f58 -> priority: 1 
+  Thread -> id: 1784 -> priority: 1 
+  Thread -> id: 4b4 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.158100 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 389.
+Total: 0.329600 ms (FindLiveObjects: 0.048800 ms CreateObjectMapping: 0.019200 ms MarkObjects: 0.242300 ms  DeleteObjects: 0.018300 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.657600 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 391.
+Total: 0.521100 ms (FindLiveObjects: 0.033100 ms CreateObjectMapping: 0.014800 ms MarkObjects: 0.463400 ms  DeleteObjects: 0.008900 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.424000 ms
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 421.
+Total: 0.659900 ms (FindLiveObjects: 0.041700 ms CreateObjectMapping: 0.015800 ms MarkObjects: 0.537100 ms  DeleteObjects: 0.064600 ms)
+
